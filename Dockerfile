@@ -1,4 +1,4 @@
-FROM microsoft/mssql-server-linux:latest
+FROM microsoft/mssql-server-linux:2017-CU12
 
 #Install curl since it is needed to get repo config
 # Get official Microsoft repository configuration
